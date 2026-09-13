@@ -1,0 +1,25 @@
+{
+    "settings":{
+        "FPS_EASY": 3,
+        "FPS_MEDIUM": 8,
+        "FPS_HARD": 15,
+        "FPS_EXPERT": 20,
+        
+        "FPS": 15,
+        "WINDOWWIDTH": 840,
+        "WINDOWHEIGHT": 580,
+        "CELLSIZE": 20,
+        "EXTRABORDER":10
+    },
+
+
+    "colors":{
+        "WHITE":        [255, 255, 255],
+        "BLACK":        [  0,   0,   0],
+        "RED":          [255,   0,   0],
+        "GREEN":        [  0, 255,   0],
+        "DARKGREEN":    [  0, 155,   0],
+        "DARKGRAY":     [ 40,  40,  40],
+        "BGCOLOR":      [  130,   150,   70]
+    }
+}
